@@ -14,6 +14,8 @@
 		74D0706026CE8E7400182D27 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74D0705F26CE8E7400182D27 /* Assets.xcassets */; };
 		74D0706326CE8E7400182D27 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74D0706126CE8E7400182D27 /* LaunchScreen.storyboard */; };
 		74D0706B26CFB2F600182D27 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74D0706A26CFB2F600182D27 /* Game.swift */; };
+		74D63E7C26D587D20075675E /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74D63E7B26D587D20075675E /* SettingsViewController.swift */; };
+		74D63E7E26D588020075675E /* RecordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74D63E7D26D588020075675E /* RecordViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		74D0706226CE8E7400182D27 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		74D0706426CE8E7400182D27 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		74D0706A26CFB2F600182D27 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
+		74D63E7B26D587D20075675E /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		74D63E7D26D588020075675E /* RecordViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				74D0706126CE8E7400182D27 /* LaunchScreen.storyboard */,
 				74D0706426CE8E7400182D27 /* Info.plist */,
 				74D0706A26CFB2F600182D27 /* Game.swift */,
+				74D63E7B26D587D20075675E /* SettingsViewController.swift */,
+				74D63E7D26D588020075675E /* RecordViewController.swift */,
 			);
 			path = FindNumber;
 			sourceTree = "<group>";
@@ -143,6 +149,8 @@
 				74D0705B26CE8E7300182D27 /* GameViewController.swift in Sources */,
 				74D0705726CE8E7300182D27 /* AppDelegate.swift in Sources */,
 				74D0705926CE8E7300182D27 /* SceneDelegate.swift in Sources */,
+				74D63E7E26D588020075675E /* RecordViewController.swift in Sources */,
+				74D63E7C26D587D20075675E /* SettingsViewController.swift in Sources */,
 				74D0706B26CFB2F600182D27 /* Game.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
